@@ -1,3 +1,4 @@
+**Note: This is a fork of another creators content that I am modifying for a class project/shiggles.**
 Freelancer Jekyll theme
 =========================
 
